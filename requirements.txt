@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pytest
+pytest-playwright
+playwright
+httpx
